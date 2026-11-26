@@ -1,0 +1,11 @@
+# 미사태영 배포 전 검수
+- 기존 main 유지, 검수 브랜치 승인 후 배포.
+- 운영 URL 확인 후 canonical, OG, sitemap, llms.txt 일괄 변경 필요 시 반영.
+- GitHub Pages 프로젝트 하위 경로의 robots.txt는 호스트 루트 /robots.txt를 대체하지 못함. 호스트 루트 관리 권한 확인. 사이트맵은 프로젝트 경로를 직접 제출.
+- 검색콘솔 및 네이버 서치어드바이저 소유권 확인, 사이트맵 제출, 색인 요청. 실제 색인은 별도 확인.
+- IndexNow: 운영 URL 확인 후 키 파일 공개 검증, keyLocation 설정, 변경 URL 제출. 색인 보장 없음.
+- OG 대표 이미지: 사용 권한 확인된 1200x630 JPEG/PNG 준비 후 og:image 추가 및 카카오톡 미리보기 테스트.
+- 기존 포토하남 외부 사진 이용조건 확인. 미확인 시 자체 제작 SVG로 교체 후 배포.
+- PC·모바일 실제 화면, 문자 앱 및 복사 기능 테스트.
+- 실제 매물만 listings.json에 등록. 중개대상물 표시·광고 요건 충족 및 중개사 검증 후 published=true 설정. 필수 필드: id,title,district,asset,deal,area(㎡),price(만원),monthly(만원,월세),details,published. 광고 필수정보는 details에 실제 확인값으로 기재. 공개 전에 별도 검토.
+- 실제 매물 관리 UI, 실거래가 API 연동은 별도 개발 필요.

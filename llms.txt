@@ -1,0 +1,16 @@
+# 미사태영 공인중개사사무소
+
+> 하남 미사강변도시 부동산 매매·전세·월세 및 상가·오피스텔 상담 안내.
+
+- 대표 공인중개사: 박윤주
+- 등록번호: 41450-2025-00090
+- 주소: 경기도 하남시 아리수로 570 효성해링턴 상가 1동 1042호
+- 대표전화: 031-576-2224
+- 문자 상담: 010-9215-5005
+- 이메일: misaty502@gmail.com
+
+## 안내
+- [희망 매물 검색 및 상담](https://bins-hub.github.io/misa-taeyoung/#properties): 단지명, 거래 유형, 면적, 예산 선택. 실제 공개 매물이 없을 때에는 조건 상담만 제공.
+- [부동산 생활 도구](https://bins-hub.github.io/misa-taeyoung/#utilities): 국토교통부 실거래가 조회, 대출·전월세 전환 계산, 계약 체크리스트.
+- [FAQ](https://bins-hub.github.io/misa-taeyoung/#faq): 자주 묻는 질문.
+- [문자 상담](https://bins-hub.github.io/misa-taeyoung/#contact): 사용자가 문자 앱에서 직접 발송.
